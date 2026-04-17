@@ -144,8 +144,6 @@ A structured engineering documentation system designed to **improve team knowled
 ## 📫 Contact
 
 - Email: **azizmashkour@gmail.com**
-- LinkedIn: [linkedin.com/in/aziz-mashkour](https://www.linkedin.com/in/aziz-mashkour/)
-- GitHub: [github.com/azizmashkour](https://github.com/azizmashkour)
 
 ---
 
