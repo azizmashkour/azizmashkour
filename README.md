@@ -84,6 +84,63 @@ I build **scalable, high-performance web products** and focus on shipping fast w
 
 ---
 
+## 🧩 Open Source Projects
+
+A collection of developer tools, frontend systems, and documentation infrastructure I’ve built to improve developer experience, content delivery, and UI systems.
+
+I focus on building **scalable, reusable, and production-grade systems**, not just prototypes.
+
+---
+
+### 📦 Notion Embed JS
+
+A lightweight JavaScript utility to **enhance and simplify embedding Notion content into web applications**.
+
+- Built to improve Notion-based workflows in developer tools and content systems
+- Focus on **clean integration and embeddable UI patterns**
+- Designed for use in modern frontend stacks (React / Next.js)
+
+> Goal: make Notion a first-class content layer in production apps
+
+🔗 GitHub: https://github.com/azizmashkour/notion-embed-js
+
+---
+
+### ⚙️ Hanfani
+
+A full-stack experimental project focused on **building scalable web application architecture with modern frontend practices**.
+
+- Built with a focus on **frontend architecture and maintainability**
+- Exploration of scalable UI patterns and system design
+- Emphasis on **developer experience and modular design**
+
+> Goal: test and refine production-ready frontend architecture patterns
+
+🔗 GitHub: https://github.com/azizmashkour/hanfani
+
+---
+
+### 📚 Engineering Docs
+
+A structured engineering documentation system designed to **improve team knowledge sharing and technical clarity**.
+
+- Centralized technical documentation structure
+- Focus on **engineering communication and system design clarity**
+- Helps teams standardize technical decision-making and onboarding
+
+> Goal: improve how engineering teams document and share knowledge
+
+🔗 GitHub: https://github.com/azizmashkour/engineering-docs
+
+---
+
+## 🧠 What these projects demonstrate
+
+- Strong focus on **frontend architecture & system design**
+- Experience building **developer tools and infrastructure**
+- Understanding of **content systems (Notion, documentation, DX tools)**
+- Ability to think in **scalable product systems, not just features**
+
 ## 📫 Contact
 
 - Email: **azizmashkour@gmail.com**
